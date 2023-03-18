@@ -1,0 +1,40 @@
+body{
+    background: #a4e3ff;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    FONT-SIZE: 3.5rem;
+    margin-block-end: auto;
+}
+form{
+    justify-content: center;
+    display: flex;
+    margin: auto 100px;
+    padding: 20px;
+}
+input{
+    width: 38rem;
+    border-radius: 10px;
+    height: 2rem;
+    font-size: 17px;
+}
+button{
+    background: #70e9e9;
+    margin-left: 29px;
+    border-radius: 9px;
+    width: 100px;
+}
+
+div{
+    background-color: #323030;
+    border: 0.5px solid black;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
